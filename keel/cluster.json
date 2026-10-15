@@ -1,0 +1,9 @@
+{
+  "nodes": {
+    "node1": "http://localhost:9101",
+    "node2": "http://localhost:9102",
+    "node3": "http://localhost:9103",
+    "node4": "http://localhost:9104",
+    "node5": "http://localhost:9105"
+  }
+}
